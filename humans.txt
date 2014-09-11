@@ -3,13 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Ivan Lerma -- Desarrollador Web -- @ilermar
+    Antonio Zapata -- Desarrollador Web -- @TONY_ZAPATA
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    PHP
